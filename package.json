@@ -1,0 +1,15 @@
+{
+  "name": "sample_node-hid",
+  "version": "1.0.0",
+  "description": "sample_node-hid",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bto-machida",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^0.5.1"
+  }
+}
